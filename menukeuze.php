@@ -7,6 +7,6 @@
   <title>Document</title>
 </head>
 <body>
-  <div> class = "menukeuze"</div>
+  <div> class = "menu"</div>
 </body>
 </html>
