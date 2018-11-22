@@ -7,6 +7,6 @@
   <title>Document</title>
 </head>
 <body>
-  <div> </div>
+  <div> class = "test"</div>
 </body>
 </html>
